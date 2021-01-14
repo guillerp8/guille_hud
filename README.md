@@ -14,4 +14,4 @@ If you use my script in your server, keep the original name to help my publicing
 
 Thx so much, I hope you like the hud <3
  
-PD: Sry for the organization, i'm so silly for this things xd.
+PD: Sry for the organization, i'm so lazy for this things xd.
