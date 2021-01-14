@@ -4,7 +4,7 @@ A hud made by me for FIVE M.
 
 To install the hud just put it inside your resources folder and add into your server.cfg the next line:
 
-ensure guille_hud
+--> ensure guille_hud
 
 If you wan't to edit it, do it.
 
