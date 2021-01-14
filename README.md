@@ -13,3 +13,5 @@ You can modify all, it's easy and intuitive.
 If you use my script in your server, keep the original name to help my publicing my scripts. 
 
 Thx so much, I hope you like the hud <3
+ 
+PD: Sry for the organization, i'm so silly for this things xd.
