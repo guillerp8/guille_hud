@@ -1,6 +1,6 @@
 # guille_hud
 
-# A hud made by me for FIVE M. 
+## A hud made by me for FIVE M. 
 
 To install the hud just put it inside your resources folder and add into your server.cfg the next line:
 
