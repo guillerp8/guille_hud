@@ -9,7 +9,7 @@ To install the hud just put it inside your resources folder and add into your se
 If you wan't to edit it, do it.
 
 You can **modify all**, it's easy and intuitive.
-If you use my script in your server, keep the original name to help my publicing my scripts. 
+If you use my script in your server, keep the original name to help me publicing my scripts. 
 
 Thx so much, I hope you like the hud <3
  
