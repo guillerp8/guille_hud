@@ -23,11 +23,11 @@ Citizen.CreateThread(function()
         end
         
         TriggerEvent('esx_status:getStatus', 'hunger', function(status) comida = status.val / 10000 end)
-        print(comida)
+       
         TriggerEvent('esx_status:getStatus', 'thirst', function(status) bebida = status.val / 10000 end)
-        print(bebida)
+       
         TriggerEvent("guille_stress:getStress", function(status) estres = status end)
-        print(estres)
+        
         SendNUIMessage({
 
             coche = IsPedSittingInAnyVehicle(player);
