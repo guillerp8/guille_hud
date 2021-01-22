@@ -15,7 +15,7 @@ $(function(){
 
         $("#vida").css("opacity", (event.data.vida) + "%");
         $("#escudo").css("opacity", (event.data.escudito) + "%");
-        $("#bebida").css("opacity", (event.data.bebida) + "%");
+        $("#agua").css("opacity", (event.data.bebida) + "%");
         $("#comida").css("opacity", (event.data.comida) + "%");
         $("#estres").css("opacity", (event.data.estres) + "%");
         
