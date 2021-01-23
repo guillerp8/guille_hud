@@ -1,3 +1,14 @@
+body {
+    width: 100%;
+    overflow: hidden;
+}
+
+#todo {
+    position: absolute;
+    bottom: 3vh;
+    left: 1vh;
+}
+
 #vida {
 
     color: black;
