@@ -25,3 +25,4 @@ files {
     'index.html'
 }
 
+-- guille hud by guillerp#1928 is marked with CC0 1.0 
