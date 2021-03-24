@@ -1,3 +1,5 @@
+-- Guille_Hud Optimized by VisiBait -> https://github.com/visibait. Original author: guillerp8 -> https://github.com/guillerp8
+
 ESX = nil 
 
 Citizen.CreateThread(function() 
@@ -12,7 +14,7 @@ end)
 Citizen.CreateThread(function()
     while true do
         Citizen.Wait(2000)
-        local player = GetPlayerPed(-1)
+        local player = PlayerPedId()
 
         if IsPedSittingInAnyVehicle(player) then 
             Citizen.Wait(5)
@@ -31,8 +33,8 @@ Citizen.CreateThread(function()
         SendNUIMessage({
 
             coche = IsPedSittingInAnyVehicle(player);
-            vida = GetEntityHealth(PlayerPedId())-100;
-            escudito = GetPedArmour(PlayerPedId());
+            vida = GetEntityHealth(player)-100;
+            escudito = GetPedArmour(player);
             bebida = bebida;
             comida = comida;
             estres = estres;
